@@ -1,0 +1,16 @@
+div#container {
+height: 200px;
+width: 200px;
+position:absolute;
+top: 20%;
+left: 35%;
+margin-top: -100px;
+margin-left: -100px;
+        }
+div#figlio{
+    text-align: center;
+    background-color: rgb(230, 230, 230);
+    width: 700px;
+    border-bottom: 2px outset rgb(236, 247, 138);
+
+}
