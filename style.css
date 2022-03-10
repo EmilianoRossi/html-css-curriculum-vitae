@@ -1,8 +1,8 @@
 div#container {
 height: 200px;
 width: 200px;
-position:absolute;
-top: 20%;
+position: absolute;
+top: 10%;
 left: 35%;
 margin-top: -100px;
 margin-left: -100px;
@@ -11,7 +11,7 @@ div#figlio{
     text-align: center;
     background-color: rgb(230, 230, 230);
     width: 700px;
-    border-bottom: 2px outset rgb(236, 247, 138);
+    border-bottom: 2px outset rgb(178, 189, 80);
 
 }
 h2{
@@ -22,4 +22,12 @@ h2{
 h3{
     text align:left;
     font-style:italic;
+}
+p{
+    width: 700px; 
+}
+div#figlio2{
+    border-top: 1px outset rgb(178, 189, 80);
+    text-align: center;
+    width: 700px;
 }
