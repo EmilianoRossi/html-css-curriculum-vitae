@@ -14,3 +14,8 @@ div#figlio{
     border-bottom: 2px outset rgb(236, 247, 138);
 
 }
+h2{
+   text-align: left;
+   color: rgb(216, 184, 0); 
+   font-size: 170%;
+}
