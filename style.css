@@ -4,15 +4,14 @@
     }
     div#figlio{
         text-align: center;
-        background-color: rgb(230, 230, 230);
+        background-color: rgba(237,237,237,255);
         width: 900px;
-        width: px;
-        border-bottom: 2px outset rgb(178, 189, 80);
+        border-bottom: 2px outset rgba(212,151,32,255);
     
     }
     h2{
        text-align: left;
-       color: rgb(216, 184, 0); 
+       color: rgba(212,151,32,255); 
        font-size: 170%;
     }
     h3{
@@ -23,7 +22,7 @@
         width: 900px; 
     }
     div#figlio2{
-        border-top: 1px outset rgb(178, 189, 80);
+        border-top: 1px outset rgba(212,151,32,255);
         text-align: center;
         width: 900px;
     }
